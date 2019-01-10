@@ -1,0 +1,10 @@
+{
+  "version": "0.2.1",
+  "tasks": [
+    {
+      "taskName": "Task-Arrow",
+      "appliesTo": "Listlix/Listlix.Android/Resources/drawable/Arrow.png",
+      "type": "launch"
+    }
+  ]
+}

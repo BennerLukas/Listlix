@@ -1,0 +1,20 @@
+{
+  "ExpandedNodes": [
+    "",
+    "\\Listlix",
+    "\\Listlix\\Listlix.Android",
+    "\\Listlix\\Listlix.Android\\Resources",
+    "\\Listlix\\Listlix.Android\\Resources\\drawable-xxhdpi",
+    "\\Listlix\\Listlix.Android\\Resources\\drawable-xxxhdpi",
+    "\\Listlix\\Listlix.Android\\Resources\\layout",
+    "\\Listlix\\Listlix.Android\\Resources\\mipmap-anydpi-v26",
+    "\\Listlix\\Listlix.Android\\Resources\\mipmap-hdpi",
+    "\\Listlix\\Listlix.Android\\Resources\\mipmap-mdpi",
+    "\\Listlix\\Listlix.Android\\Resources\\mipmap-xhdpi",
+    "\\Listlix\\Listlix.Android\\Resources\\mipmap-xxhdpi",
+    "\\Listlix\\Listlix.Android\\Resources\\mipmap-xxxhdpi",
+    "\\Listlix\\Listlix.Android\\Resources\\values"
+  ],
+  "SelectedNode": "\\Listlix\\Listlix.Android\\Resources\\values\\styles.xml",
+  "PreviewInSolutionExplorer": false
+}
